@@ -1,0 +1,275 @@
+/* Styles go here */
+
+@import url(http://fonts.googleapis.com/css?family=Cantarell);
+
+body {
+  background:#593f3f;
+  color:white;
+  font-size:17px;
+  font-family: 'Cantarell', sans-serif;
+}
+
+h1 {
+  font-size:20px;
+  color:white;
+}
+
+.seethrough {
+  opacity:0.5;
+}
+
+img {
+  width:100%;
+  max-height:800px;
+}
+
+a {
+  color:white;
+  text-decoration:underline;
+}
+
+a:hover {
+  color:#593f3f;
+}
+
+.imgwrp {
+  position:relative;
+  font-size:100%;
+}
+
+.lefteye {
+  font-size:2vw;
+  position:absolute;
+  top: 26%;
+  left: 21%;
+  text-decoration: none;
+}
+
+.righteye {
+  font-size: 2vw;
+  position:absolute;
+  top: 25%;
+  left: 56%;
+  text-decoration: none;
+
+}
+
+.tears {
+  font-size: 40px;
+}
+
+.centraltext1 {
+  font-size: 13px;
+  position:absolute;
+  top:35%;
+  left:50%;
+  transform:translate(-50%,-50%)
+}
+
+.centraltext2 {
+  font-size:19px;
+  position:absolute;
+  top:15%;
+  left:5%
+  transform:translate(-50%,-50%)
+}
+
+.air {
+  position:absolute;
+  top:5%;
+  left:50%;
+  transform:translate(-50%,-50%)
+}
+}
+
+.misstake {
+  font-size:15px;
+  position:absolute;
+  top:75%;
+  left:55%
+  transform:translate(-50%,-50%)
+}
+
+.fool {
+  font-size:14px;
+}
+
+.neverliked {
+  font-size:14px;
+}
+
+.i {
+  color:#9950d1;
+}
+
+.over {
+  color:#e73b74;
+}
+
+.you {
+  color:#3b70e7;
+}
+
+.boom {
+  font-size:55px;
+  position:absolute;
+  left:0%;
+
+}
+
+.storm1 {
+  font-size:20px;
+  position:absolute;
+  top:30%;
+  left:55%
+  transform:translate(-50%,-50%)
+}
+
+.lookgood {
+  font-size:25px;
+  position:absolute;
+  top:35%;
+  left:50%;
+  transform:translate(-50%,-50%)
+}
+
+.nothing {
+  font-size:24px;
+  color:black;
+  position:absolute;
+  top:20%;
+  left:70%;
+  transform:translate(-50%,-50%)
+}
+
+.time {
+  font-size:20px;
+  position:absolute;
+  top:35%;
+  left:45%;
+  transform:translate(-50%,-50%)
+
+}
+
+.tak {
+  position:absolute;
+  top:30%;
+  left:90%;
+  transform:translate(-50%,-50%)
+}
+
+.false{
+  position:absolute;
+  top:5%;
+  left:95%;
+  transform:translate(-50%,-50%)
+}
+
+.violent {
+  position:absolute;
+  top:92%;
+  right:5%;
+}
+
+.greybg {
+  background-color:grey;
+}
+
+
+.blackbg {
+  background-color:black;
+}
+
+.hoverblack:hover {
+color:black;
+}
+
+.greyhover:hover {
+  color:grey;
+}
+
+.whitebg {
+  background-color:#593f3f;
+}
+
+.whitebg1 {
+  background-color:white;
+}
+
+.kiss {
+  font-size:20px;
+  position:absolute;
+  top:50%;
+}
+
+.me {
+  font-size:40px;
+  position:absolute;
+  top:35%;
+  left:50%;
+  transform:translate(-50%,-50%)
+}
+
+.me1 {
+  font-size:12px;
+}
+
+.eyebg {
+  background-color:;
+}
+
+.heart {
+  height:100%;
+  width:auto;
+}
+
+.clock {
+  width:100%;
+  height:auto;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%)
+}
+
+.phone {
+  width:40%;
+  height:auto;
+  position:absolute;
+  top:40%;
+  left:30%;
+  transform:translate(-50%,-50%)
+}
+
+.greenspot {
+  height:auto;
+  width:60%;
+  position:absolute;
+  top:40%;
+  left:50%;
+  transform:translate(-50%,-50%)
+}
+
+.bye {
+  position:absolute;
+  top:85%;
+  right:50%;
+}
+
+.inbal {
+  font-size:14px;
+  position:absolute;
+  top:60%;
+  right:5%;
+}
+
+.sexual {
+  font-size:17px;
+
+}
+
+.not-allowed
+     { cursor: not-allowed; }
+
+.copy
+       { cursor: copy; }

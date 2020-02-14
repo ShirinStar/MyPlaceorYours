@@ -1,0 +1,54 @@
+/* Styles go here */
+
+/* Styles go here */
+
+body {
+  background:#593f3f;
+  color:white;
+  font-size:15px;
+}
+
+h1 {
+  font-size:20px;
+  color:white;
+}
+
+.seethrough {
+    opacity:0.5;
+}
+
+img {
+  width:100%;
+  max-height:800px;
+}
+
+a {
+  color:white;
+  text-decoration:underline;
+}
+
+a:hover {
+  color:#928bdf;
+}
+
+.imgwrp {
+  position:relative;
+  font-size:100%;
+}
+
+.lefteye {
+  font-size:5vw;
+  position:absolute;
+  top: 26%;
+  left: 22%;
+  text-decoration: none;
+}
+
+.righteye {
+  font-size: 4vw;
+  position:absolute;
+  top: 25%;
+  left: 53%;
+  text-decoration: none;
+  
+}
