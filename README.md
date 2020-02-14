@@ -1,4 +1,4 @@
-# MyPlaceorYours
+# My Place or Yours
 Homage to the legendary work of Olia Lialina; [“my boyfriend came back from the war”](http://www.teleportacia.org/war/). 
 This work attempted to ask what happened after years since he came back from the war?
 
